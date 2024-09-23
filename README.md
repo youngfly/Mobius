@@ -1,5 +1,5 @@
 # Mobius
-Code will released soon
+Code is releasing
 
 Mobius: A High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Task
 
